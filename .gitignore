@@ -1,0 +1,20 @@
+# Archivos de reporte de Robot Framework
+log.html
+report.html
+output.xml
+output-*.xml
+report-*.html
+log-*.html
+
+# Directorios de resultados de Robot Framework
+results/
+results/*
+output/
+output/*
+
+# Directorio de cache de Robot Framework
+.rccache
+
+# Ignorar otros archivos temporales y de configuración
+*.pyc
+__pycache__/

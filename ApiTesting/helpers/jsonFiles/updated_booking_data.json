@@ -1,0 +1,11 @@
+{
+    "firstname": "Patricio",
+    "lastname": "Estrella",
+    "totalprice": 150,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2024-12-02",
+      "checkout": "2024-12-06"
+    }
+  }
+  
